@@ -17,6 +17,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NEDO.DEV | FUCKED UP PROD</title>
 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZM0DTXJT8X"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-ZM0DTXJT8X');
+    </script>
 
     <script>
       var _paq = window._paq = window._paq || [];
@@ -111,6 +119,10 @@
         
         body.lsd-mode * {
              animation: shake 2s linear infinite !important;
+        }
+        
+        html.invert {
+            filter: invert(1) hue-rotate(180deg);
         }
 
         .logo-mark {

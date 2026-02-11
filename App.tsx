@@ -189,7 +189,7 @@ const App: React.FC = () => {
   const visibleProjects = showAllProjects ? projects : projects.slice(0, 3);
 
   const handleLazyTheme = () => {
-      document.body.classList.toggle('invert');
+      document.documentElement.classList.toggle('invert');
   };
 
   const handleEmailClick = (e: React.MouseEvent) => {
@@ -290,6 +290,7 @@ const App: React.FC = () => {
                       </div>
                   </div>
                   
+                  {/* Content */}
                   <div className="p-6 flex gap-6 items-start">
                       <div className="text-6xl select-none">💣</div>
                       <div>
@@ -492,7 +493,7 @@ const App: React.FC = () => {
                   
                   <div className="flex flex-col md:flex-row gap-6 items-start">
                       <div className="flex flex-col">
-                        <a href="mailto:lol@nedodev.ru" className="inline-block bg-[#22b4ff] text-black border-4 border-black px-8 py-4 font-black text-2xl hover:bg-white hover:shadow-[8px_8px_0px_#22b4ff] transition-all text-center">
+                        <a href="#" onClick={handleEmailClick} className="inline-block bg-[#22b4ff] text-black border-4 border-black px-8 py-4 font-black text-2xl hover:bg-white hover:shadow-[8px_8px_0px_#22b4ff] transition-all text-center">
                             LOL@NEDO.DEV
                         </a>
                         <span className="text-gray-500 font-mono text-[10px] mt-2 text-center uppercase">
@@ -500,7 +501,7 @@ const App: React.FC = () => {
                         </span>
                       </div>
                       
-                      <a href="#" className="inline-block bg-transparent text-white border-4 border-white px-8 py-4 font-black text-2xl hover:bg-[#ff0055] hover:border-[#ff0055] hover:text-black transition-all">
+                      <a href="https://t.me/NedoMng" className="inline-block bg-transparent text-white border-4 border-white px-8 py-4 font-black text-2xl hover:bg-[#ff0055] hover:border-[#ff0055] hover:text-black transition-all">
                           TELEGRAM
                       </a>
                   </div>
