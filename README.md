@@ -40,7 +40,7 @@
 
 1.  **Клонируй этот мусор:**
     ```bash
-    git clone https://github.com/your-username/nedo.dev.git
+    https://github.com/This-Nedo-Dev/nedo.dev.git
     cd nedo.dev
     ```
 
