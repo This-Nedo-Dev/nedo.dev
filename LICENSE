@@ -1,21 +1,44 @@
-MIT License
+# THE NedoDev "FAFO & PAY ME" PUBLIC LICENSE
+Version 2.0.0 (The Anti-Capitalist Edition)
 
-Copyright (c) 2026 MineplayTY
+Copyright (c) 2026 NedoDev (MineplayTY and Team)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## PREAMBLE
+This software was written by enthusiasts, for enthusiasts. We believe in the open web, late-night coding, and sharing knowledge. We DO NOT believe in letting multi-million dollar corporations and VC-backed startups use our labor to inflate their quarterly earnings for free. 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Therefore, your rights to use this software are strictly dictated by your net worth and corporate structure.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### 1. THE "REAL BRO" EXEMPTION (TIER 1)
+If you are a solo developer, a student, an indie hacker living on instant noodles, or an open-source enthusiast building something for fun-congratulations. You are granted a worldwide, royalty-free, perpetual license to use, modify, and distribute this software. We love you. Keep building.
+
+### 2. THE SUCCESS TAX (TIER 2)
+If you fall into Tier 1 but your project unexpectedly goes viral and generates over $500,000 USD in gross revenue, your license instantly upgrades to Tier 2. 
+By continuing to use our code, you legally agree to:
+a) Transfer 5% of your net profits to NedoDev, OR
+b) Buy MineplayTY a brand-new Porsche 911 GT3 RS.
+We helped you get rich, now pay the toll. Don't act like you don't know us.
+
+### 3. THE OPEN-SOURCE PARASITE CLAUSE (TIER 3)
+If you are a Venture Capital-backed startup, a corporation with >50 employees, a monopolistic tech giant (FAANG/MAANG), or any entity that wears Patagonia vests in the office, THIS SOFTWARE IS NOT FREE FOR YOU. 
+To use this codebase in any commercial product, you must:
+- Pay a mandatory licensing fee of 10% of your gross annual revenue.
+- Add our logo to your main landing page with the caption: "Built on the backs of NedoDev".
+Failure to comply will result in us publicly shaming your CTO on Twitter and retrospectively invoicing you with a 500% late fee penalty.
+
+### 4. MALICIOUS USE PROHIBITION
+You are strictly forbidden from using this software to:
+- Build monopolistic ecosystems that ruin the internet.
+- Create AI tools designed to replace junior developers.
+- Launch NFT projects, rug-pull crypto tokens, or anything involving the phrase "Web3 paradigm shift".
+If you do, we reserve the right to curse your repository, ensuring your CI/CD pipelines fail on Fridays at 5 PM for the rest of eternity.
+
+### 5. AUDIT RIGHTS
+We reserve the right to slide into your DMs at any time to demand your financial statements if we suspect you are secretly rich and using our code for free. 
+
+---
+
+### DISCLAIMER OF LIABILITY (BUT NOT OF INVOICES)
+
+THE SOFTWARE IS PROVIDED "AS IS". WE GUARANTEE NOTHING EXCEPT THAT WE WILL ABSOLUTELY COME COLLECT OUR CHECK IF YOU MAKE MILLIONS OFF OUR HARD WORK. 
+
+IN NO EVENT SHALL NedoDev BE LIABLE FOR YOUR SERVERS CRASHING, BUT YOU SHALL BE HELD EXTREMELY LIABLE FOR PAYING YOUR INVOICES TO US. BY CLONING THIS REPOSITORY, YOU SIGN THIS PACT IN DIGITAL BLOOD.
